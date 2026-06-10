@@ -24,9 +24,6 @@ Construyendo mi camino hacia DevSecOps desde México 🇲🇽
 
 - ✅ Domina la IA con Gemini — Santander Open Academy
 - ✅ Python — Santander Open Academy
-- ✅ Comunicación Efectiva — Santander Open Academy
-- ✅ Hablar en público con técnicas teatrales — Santander
-- ✅ Liderazgo en el entorno digital — Santander
 - 🔄 AI Skills Fest — Microsoft (en progreso)
 
 ## 📂 Proyectos
