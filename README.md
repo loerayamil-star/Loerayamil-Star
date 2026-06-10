@@ -30,7 +30,7 @@ Construyendo mi camino hacia DevSecOps desde México 🇲🇽
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
-| 🏦 cajero-hsbc | Simulador bancario con interfaz gráfica | Python · Tkinter |
+| [🏦 cajero-hsbc](https://github.com/loerayamil-star/Cajero-HSBC) | Simulador bancario con interfaz gráfica | Python · Tkinter |
 
 ## 🤝 Conectemos
 
