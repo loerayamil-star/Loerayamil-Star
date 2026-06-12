@@ -35,4 +35,5 @@ Construyendo mi camino hacia DevSecOps desde México 🇲🇽
 
 ## 🤝 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yamil-loera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+yamil-de-loera-mx)
