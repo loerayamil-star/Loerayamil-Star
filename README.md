@@ -32,6 +32,7 @@ Construyendo mi camino hacia DevSecOps desde México 🇲🇽
 |---|---|---|
 | [🏦 cajero-hsbc](https://github.com/loerayamil-star/Cajero-HSBC) | Simulador bancario con interfaz gráfica | Python · Tkinter |
 | [✈️ rastreador-vuelos](https://github.com/loerayamil-star/Rastreador-Vuelos) | Rastreador de vuelos en tiempo real sobre México | Python · Tkinter · API |
+| [🔐 Generador-contrase-as](https://github.com/loerayamil-star/Generador-contrase-as) | Generador y verificador de contraseñas seguras | Python · Tkinter · regex |
 
 ## 🤝 Conectemos
 
