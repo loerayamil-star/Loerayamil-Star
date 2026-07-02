@@ -35,6 +35,7 @@ Construyendo mi camino hacia DevSecOps desde México 🇲🇽
 | [🔐 Generador-contrase-as](https://github.com/loerayamil-star/Generador-contrase-as) | Generador y verificador de contraseñas seguras | Python · Tkinter · regex |
 | [🖥️ monitor-sistema](https://github.com/loerayamil-star/monitor-sistema) | Monitor de CPU, RAM y disco en tiempo real | Python · Tkinter · psutil · POO |
 | [🔍 escaner-puertos](https://github.com/loerayamil-star/escaner-puertos) | Escáner de puertos con sockets y threading | Python · Tkinter · socket · threading · POO |
+![CI](https://github.com/loerayamil-star/escaner-puertos/actions/workflows/lint.yml/badge.svg)
 
 ## 🤝 Conectemos
 
