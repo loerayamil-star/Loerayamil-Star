@@ -43,9 +43,9 @@ Building my path toward DevSecOps from Mexico 🇲🇽
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=loerayamil-star&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=loerayamil-star&theme=dark)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loerayamil-star&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=loerayamil-star&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=loerayamil-star&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=loerayamil-star&layout=compact&theme=dark)
 
 ## 🤝 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamil-de-loera-mx)
