@@ -15,8 +15,8 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 
 ## 🌍 Idiomas
 
-- Español — nativo 
-- Inglés — C1 Advanced, CEFR 
+- Español — nativo
+- Inglés — C1 Advanced, CEFR
 - Portugués — en aprendizaje
 
 ---
@@ -60,7 +60,7 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 
 - **En práctica ahora:** Python, Linux y Git · GitHub Actions y CI/CD · pytest, Ruff y análisis estático · Redes y fundamentos de ciberseguridad · PortSwigger Web Security Academy y TryHackMe
 
-- **En exploración:** AWS y Azure Cloud · SOC/DFIR · AI Security · SQL · HTML, CSS y JavaScript/Node.js (aún no implementado a fondo en código propio)
+- **En exploración:** AWS y Azure Cloud · SOC/DFIR · AI Security · SQL · HTML, CSS y JavaScript/Node.js (aún no implementado a fondo en código propio) · Docker
 
 - **Próximos objetivos:** Reintentar SC-900 · CI/tests en Auditor-de-Seguridad · Primera fase funcional de mini-SOC · Fase 1 de orquestador-con-seguridad
 
@@ -69,7 +69,6 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 ## 🛠️ Stack tecnológico
 
 ### Demostrado en proyectos
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -83,10 +82,10 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AB7B3?style=flat&logo=wazuh&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
+
 También he trabajado con sockets TCP, threading, APIs HTTP, persistencia local y programación orientada a objetos.
 
 ### En aprendizaje activo
-
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
@@ -94,12 +93,16 @@ También he trabajado con sockets TCP, threading, APIs HTTP, persistencia local 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ### Exploración futura
 
-Cloud Security · seguridad de contenedores · infraestructura como código
- · IAM · observabilidad · seguridad de agentes · JavaScript/Node.js aplicado ·
-HTML/CSS
+Cloud Security · seguridad de contenedores · infraestructura como código · IAM · observabilidad · seguridad de agentes
 
 ---
 
@@ -136,7 +139,10 @@ HTML/CSS
 | Seguridad aplicada | `Generador-contrase-as` |
 
 
+
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=loerayamil-star&show_icons=true&theme=dark)
+
+
 
 ---
 
