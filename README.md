@@ -142,10 +142,6 @@ HTML/CSS
 
 ## 🤝 Conectemos
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/yamil-de-loera-mx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamil-de-loera-mx)
 
 Me interesan oportunidades de aprendizaje, mentoría, prácticas y programas de formación relacionados con DevSecOps, Cloud Security, AppSec, automatización, infraestructura, SOC/DFIR y AI Security.
