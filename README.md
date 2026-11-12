@@ -58,9 +58,11 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 
 ## 📚 Actualmente aprendiendo
 
-- **En práctica ahora:** Python, Linux y Git · GitHub Actions y CI/CD · pytest, Ruff y análisis estático · Redes y fundamentos de ciberseguridad · PortSwigger Web Security Academy y TryHackMe
+- **En práctica ahora:** Python, Linux y Git · GitHub Actions y CI/CD · pytest, Ruff y análisis estático · Redes y fundamentos de ciberseguridad · PortSwigger Web Security Academy y TryHackMe · AWS y Azure Cloud
 
-- **En exploración:** AWS y Azure Cloud · SOC/DFIR · AI Security · SQL · HTML, CSS y JavaScript/Node.js (aún no implementado a fondo en código propio) · Docker
+- **En exploración:** SOC/DFIR · AI Security · HTML, CSS y JavaScript/Node.js (aún no implementado a fondo en código propio)
+
+- **Planeado:** Shell, Docker y SQL
 
 - **Próximos objetivos:** Reintentar SC-900 · CI/tests en Auditor-de-Seguridad · Primera fase funcional de mini-SOC · Fase 1 de orquestador-con-seguridad
 
@@ -79,7 +81,6 @@ Construyendo mi camino hacia **DevSecOps y Cloud Security** desde México.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AB7B3?style=flat&logo=wazuh&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 
@@ -92,12 +93,16 @@ También he trabajado con sockets TCP, threading, APIs HTTP, persistencia local 
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+### Planeado
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 ### Exploración futura
@@ -108,9 +113,9 @@ Cloud Security · seguridad de contenedores · infraestructura como código · I
 
 ## 🎓 Certificaciones, cursos y fundamentos
 
-- **Certificación formal:** Microsoft SC-900 — Presentada en septiembre de 2026: 653/700; reintento en preparación.
+- **Certificación formal:** Microsoft SC-900 — Presentada en septiembre de 2026: 653/700; reintento en 2027.
 
-- **En curso:** CS50P (Harvard/edX) · GitHub Foundations · LFCS (vía KodeKloud) · Cisco NetAcad · AWS SimuLearn · Azure for Students
+- **En curso:** CS50P (Harvard/edX) · GitHub Foundations · LFCS (vía KodeKloud, por empezar) · Cisco NetAcad · AWS SimuLearn · Azure for Students
 
 - **Otros fundamentos:** Python — Santander Open Academy · PortSwigger Web Security Academy · TryHackMe
 
